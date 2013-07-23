@@ -1,0 +1,12 @@
+cache/
+/css
+.DS_Store
+.project
+/images
+/files
+.sass-cache/
+runtests.cfm
+*.sublime-project
+*.sublime-workspace
+.svn
+Thumbs.db

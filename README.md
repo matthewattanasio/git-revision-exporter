@@ -10,13 +10,13 @@ git diff-tree -r --no-commit-id --name-only --diff-filter=ACMRT $commit_id
 ```
 
 
-###RoadMap
+##RoadMap
 
-##Stage 1:
+###Stage 1:
 Working version of exporter that is able to take a list of changed files and export them into 
 
-##Stage 2:
+###Stage 2:
 Updated interface of exporter that allows you possibly select from a list of all the commits (this might not even be possible).
 
-##Stage 3:
+###Stage 3:
 Javascript version of exporter using node.js to make it more platform independant.
